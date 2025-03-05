@@ -1,3 +1,3 @@
-# CodeAlpha_Image-Gallery_ArnabDey
+# Image-Gallery
 
 A simple Image Gallery using HTML, CSS and JavaScript
